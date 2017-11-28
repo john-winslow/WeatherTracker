@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Weather Tracker
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple application using React & Redux, allowing users to search for locations and create a list of forecasts.
 
 ### Getting Started
 
@@ -16,3 +16,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 navigate to http://localhost:8080/ in your browser
+
+
